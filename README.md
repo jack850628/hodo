@@ -4,7 +4,7 @@
 至於hodo是怎麼表示unicode?如下說明: \
 hodo表示0x0000 \
 hhodo表示0x1000 \
-hodddoo表示0x0021 \
+hodddoo表示0x0021 
 
 Q:我該怎麼使用hodo? \
 A:將hodo.py放到任一資料夾，在該資料夾下的python中使用from hodo import hodo \
