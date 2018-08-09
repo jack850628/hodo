@@ -9,5 +9,5 @@ hodddoo表示0x0021
 Q:我該怎麼使用hodo? \
 A:將hodo.py放到任一資料夾，在該資料夾下的python中使用from hodo import hodo \
 在hodo物件中有encode用來編碼，decode用來解碼，例如: \
-s = hodo.encode('禾多')
+s = hodo.encode('禾多') \
 s = hodo.decode('hhhhhhhhooooooooooddddddddddddooooooooooooooo hhhhhhooooooooooddooooooooooo')
